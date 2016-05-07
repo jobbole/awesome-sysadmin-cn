@@ -11,6 +11,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
   - 《[Logstash：日志文件管理工具](http://hao.jobbole.com/logstash/)》
+  - 《[MyCli：支持自动补全和语法高亮的 MySQL 客户端](http://hao.jobbole.com/mycli-mysql/)》
 
 * * *
 
