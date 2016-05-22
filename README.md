@@ -1,4 +1,4 @@
-# 系统管理员资源大全中文版
+﻿# 系统管理员资源大全中文版
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) 就是 kahun 发起维护的 系统管理员 资源列表，内容包括：备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理
 
@@ -138,10 +138,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [Ansible](http://www.ansibleworks.com/) -Python编写的，通过SSH管理节点
 *   [CFEngine](http://cfengine.com/) -轻量级代理系统。通过申明语言配置状态。
-*   [Chef](http://www.opscode.com/chef/) -Rbuy和Erlang编写，使用纯RubyDSL
+*   [Chef](http://www.opscode.com/chef/) -Ruby和Erlang编写，使用纯RubyDSL
 *   [Fabric](http://www.fabfile.org/) - Python库和cli工具，为应用程序部署或系统管理任务简化使用SSH。
 *   [Pallet](http://palletops.com/) -通过Clojure DSL进行架构定义，配置和管理
-*   [Puppet](http://puppetlabs.com/) - Ruby编写，使用Puppet声明语言或Rbuy DSL
+*   [Puppet](http://puppetlabs.com/) - Ruby编写，使用Puppet声明语言或Ruby DSL
 *   [Salt](http://www.saltstack.com/) - Python编写
 *   [Slaughter](http://steve.org.uk/Software/slaughter/) - Perl编写
 
@@ -151,7 +151,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [Buildbot](http://buildbot.net/) - 基于Python的持续集成工具
 *   [Drone](https://github.com/drone/drone) - 构建在Docker，使用YAML文件配置的的持续集成服务器
-*   [GitLab CI](https://www.gitlab.com/gitlab-ci/) -基于rbuy。他们也提供GitLab用于管理git存储库
+*   [GitLab CI](https://www.gitlab.com/gitlab-ci/) -基于ruby。他们也提供GitLab用于管理git存储库
 *   [Go](http://www.go.cd/) - 开源的持续交付服务器
 *   [Jenkins](http://jenkins-ci.org/) - 一个可扩展的开源持续集成服务器
 *   [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) -自动化部署
@@ -437,11 +437,11 @@ SSH工具
 
 *   [ChiliProject](https://www.chiliproject.org/) - Redmine分支
 *   [GitBucket](https://github.com/takezoe/gitbucket) 用Scala编写的GitHub的克隆，单独jar安装
-*   [GitLab](https://www.gitlab.com/) -用Rbuy编写的GitHub的克隆
+*   [GitLab](https://www.gitlab.com/) -用Ruby编写的GitHub的克隆
 *   [Gogs](http://gogs.io/) -用Go编写
 *   [OpenProject](https://www.openproject.org/) -开源的项目协作项目
 *   [Phabricator](http://phabricator.org/) PHP编写
-*   [Redmine](http://www.redmine.org/) - 基于rails在rbuy编写
+*   [Redmine](http://www.redmine.org/) - 基于rails在ruby编写
 *   [The Bug Genie](http://www.thebuggenie.com/) -PHP编写
 *   [Trac](http://trac.edgewall.org/) -python编写
 
