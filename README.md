@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr/)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr/)、[冰斌](http://hao.jobbole.com/author/libing1209/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -101,7 +101,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   git-annex assistant：在你的每一个OSX和Linux电脑，Android设备，可移动驱动，NAS电器和云服务上一个同步文件夹。[官网](http://git-annex.branchable.com/assistant/)
 *   ownCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。[官网](https://owncloud.org/)
 *   Seafile：另一个开源的云存储解决方案。[官网](http://seafile.com/)
-*   SparkleShare：提供云存储和文件同步服务。它默认使用Git作为存储后端。[官网](http://sparkleshare.org/)
+*   [SparkleShare](http://hao.jobbole.com/sparkleshare/)：提供云存储和文件同步服务。它默认使用Git作为存储后端。[官网](http://sparkleshare.org/)
 *   Swift：一个高可用，分布式，最终一致的对象/大数据存储。[官网](http://docs.openstack.org/developer/swift/)
 *   Syncthing：一个用于私有，加密和身份认证数据的开源系统。[官网](http://syncthing.net/)
 
