@@ -242,7 +242,8 @@ LDAP服务器
 *   Kibana：可视化日志和时间戳数据。[官网](http://www.elasticsearch.org/overview/kibana/)
 *   Logstash：管理事件和日志的工具。[官网](http://hao.jobbole.com/logstash/)
 *   Octopussy：日志管理解决方案（可视化/报警/报告）。[官网](http://www.octopussy.pm/)
-log
+
+
 ## 监控
 
 监控软件
@@ -250,7 +251,7 @@ log
 *   Cacti：基于Web的网络监控和图形工具。[官网](http://www.cacti.net/)
 *   Cabot：监控和报警，类似PagerDuty。[官网](http://cabotapp.com/)
 *   check_mk：Nagios的扩展集合。[官网](http://mathias-kettner.com/check_mk.html)
-*   Dash：一个用于GNU/Linux机器的低开销web仪表板监控。[官网](https://github.com/afaqurk/linux-dash)
+*   [Dash](http://hao.jobbole.com/linux-dash/)：一个用于GNU/Linux机器的低开销web仪表板监控。[官网](http://linuxdash.afaqtariq.com/#/system-status) [Github](https://github.com/afaqurk/linux-dash)
 *   Icinga：Nagios分支。[官网](https://www.icinga.org/)
 *   LibreNMS：Observium分支。[官网](https://github.com/librenms/librenms/)
 *   Monit：管理和监控Unix系统的小型开源工具。[官网](http://mmonit.com/monit/#home)
