@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr/)、[冰斌](http://hao.jobbole.com/author/libing1209/)、You
+- 贡献者：[cucr](http://www.jobbole.com/members/cucr/)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[黄余粮](http://www.jobbole.com/members/huangyuliang/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -323,7 +323,7 @@ NOSQL数据库
 *   键值
     *   LevelDB：Google高性能键值数据库。[官网](https://code.google.com/p/leveldb/)
     *   Redis：支持网络，基于内存，键值，亦可持久化数据库。[官网](http://redis.io/)
-    *   Riak：另一个容错的键值NoSQL数据库。[官网](http://basho.com/riak/)
+    *   [Riak](http://hao.jobbole.com/riak/)：另一个容错的键值NoSQL数据库。[官网](http://basho.com/riak/)
 
 NoSQL服务器比较: [http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 
