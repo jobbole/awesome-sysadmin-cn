@@ -138,10 +138,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   Ansible：Python编写的，通过SSH管理节点。[官网](http://www.ansibleworks.com/)
 *   CFEngine：轻量级代理系统。通过申明语言配置状态。[官网](http://cfengine.com/)
-*   Chef：Rbuy和Erlang编写，使用纯RubyDSL。[官网](http://www.opscode.com/chef/)
+*   Chef：Ruby和Erlang编写，使用纯RubyDSL。[官网](http://www.opscode.com/chef/)
 *   Fabric：Python库和cli工具，为应用程序部署或系统管理任务简化使用SSH。[官网](http://www.fabfile.org/)
 *   Pallet：通过Clojure DSL进行架构定义，配置和管理。[官网](http://palletops.com/)
-*   Puppet：Ruby编写，使用Puppet声明语言或Rbuy DSL。[官网](http://puppetlabs.com/)
+*   Puppet：Ruby编写，使用Puppet声明语言或Ruby DSL。[官网](http://puppetlabs.com/)
 *   Salt：Python编写。[官网](http://www.saltstack.com/)
 *   Slaughter：Perl编写。[官网](http://steve.org.uk/Software/slaughter/)
 
@@ -151,7 +151,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   Buildbot：基于Python的持续集成工具。[官网](http://buildbot.net/)
 *   Drone：构建在Docker，使用YAML文件配置的的持续集成服务器。[官网](https://github.com/drone/drone)
-*   GitLab CI：基于rbuy。他们也提供GitLab用于管理git存储库。[官网](https://www.gitlab.com/gitlab-ci/)
+*   GitLab CI：基于Ruby。他们也提供GitLab用于管理git存储库。[官网](https://www.gitlab.com/gitlab-ci/)
 *   Go：开源的持续交付服务器。[官网](http://www.go.cd/)
 *   Jenkins：一个可扩展的开源持续集成服务器。[官网](http://jenkins-ci.org/)
 *   Vlad the Deployer：自动化部署。[官网](http://rubyhitsquad.com/Vlad_the_Deployer.html)
@@ -437,11 +437,11 @@ SSH工具
 
 *   ChiliProject：Redmine分支。[官网](https://www.chiliproject.org/)
 *   GitBucket：用Scala编写的GitHub的克隆，单独jar安装。[官网](https://github.com/takezoe/gitbucket)
-*   GitLab：用Rbuy编写的GitHub的克隆。[官网](https://www.gitlab.com/)
+*   GitLab：用Ruby编写的GitHub的克隆。[官网](https://www.gitlab.com/)
 *   Gogs：用Go编写。[官网](http://gogs.io/)
 *   OpenProject：开源的项目协作项目。[官网](https://www.openproject.org/)
 *   Phabricator：PHP编写。[官网](http://phabricator.org/) 
-*   Redmine：基于rails在rbuy编写。[官网](http://www.redmine.org/)
+*   Redmine：基于rails在ruby编写。[官网](http://www.redmine.org/)
 *   The Bug Genie：PHP编写。[官网](http://www.thebuggenie.com/)
 *   Trac：python编写。[官网](http://trac.edgewall.org/)
 
