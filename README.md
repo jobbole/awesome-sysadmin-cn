@@ -9,9 +9,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Logstash：日志文件管理工具](http://hao.jobbole.com/logstash/)》
-  - 《[MyCli：支持自动补全和语法高亮的 MySQL 客户端](http://hao.jobbole.com/mycli-mysql/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[Logstash：日志文件管理工具](http://hao.importnew.com/logstash/)》
+  - 《[MyCli：支持自动补全和语法高亮的 MySQL 客户端](http://hao.importnew.com/mycli-mysql/)》
 
 * * *
 
@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[cucr](http://www.jobbole.com/members/cucr/)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[黄余粮](http://www.jobbole.com/members/huangyuliang/)、You
+- 贡献者：[cucr](http://www.importnew.com/members/cucr/)、[冰斌](http://hao.importnew.com/author/libing1209/)、[黄余粮](http://www.importnew.com/members/huangyuliang/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/)
 
 * * * -->
 
@@ -101,7 +101,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   git-annex assistant：在你的每一个OSX和Linux电脑，Android设备，可移动驱动，NAS电器和云服务上一个同步文件夹。[官网](http://git-annex.branchable.com/assistant/)
 *   ownCloud：提供你的文件的统一访问，通过web，你的电脑和你的移动设备。[官网](https://owncloud.org/)
 *   Seafile：另一个开源的云存储解决方案。[官网](http://seafile.com/)
-*   [SparkleShare](http://hao.jobbole.com/sparkleshare/)：提供云存储和文件同步服务。它默认使用Git作为存储后端。[官网](http://sparkleshare.org/)
+*   [SparkleShare](http://hao.importnew.com/sparkleshare/)：提供云存储和文件同步服务。它默认使用Git作为存储后端。[官网](http://sparkleshare.org/)
 *   Swift：一个高可用，分布式，最终一致的对象/大数据存储。[官网](http://docs.openstack.org/developer/swift/)
 *   Syncthing：一个用于私有，加密和身份认证数据的开源系统。[官网](http://syncthing.net/)
 
@@ -240,7 +240,7 @@ LDAP服务器
 *   Graylog2：具有报警选项的可插入日志和事件分析服务器。[官网](http://graylog2.org/)
 *   Heka：流处理系统，可用于日志聚合。[官网](http://hekad.readthedocs.org/en/latest/)
 *   Kibana：可视化日志和时间戳数据。[官网](http://www.elasticsearch.org/overview/kibana/)
-*   Logstash：管理事件和日志的工具。[官网](http://hao.jobbole.com/logstash/)
+*   Logstash：管理事件和日志的工具。[官网](http://hao.importnew.com/logstash/)
 *   Octopussy：日志管理解决方案（可视化/报警/报告）。[官网](http://www.octopussy.pm/)
 
 
@@ -251,7 +251,7 @@ LDAP服务器
 *   Cacti：基于Web的网络监控和图形工具。[官网](http://www.cacti.net/)
 *   Cabot：监控和报警，类似PagerDuty。[官网](http://cabotapp.com/)
 *   check_mk：Nagios的扩展集合。[官网](http://mathias-kettner.com/check_mk.html)
-*   [Dash](http://hao.jobbole.com/linux-dash/)：一个用于GNU/Linux机器的低开销web仪表板监控。[官网](http://linuxdash.afaqtariq.com/#/system-status) [Github](https://github.com/afaqurk/linux-dash)
+*   [Dash](http://hao.importnew.com/linux-dash/)：一个用于GNU/Linux机器的低开销web仪表板监控。[官网](http://linuxdash.afaqtariq.com/#/system-status) [Github](https://github.com/afaqurk/linux-dash)
 *   Icinga：Nagios分支。[官网](https://www.icinga.org/)
 *   LibreNMS：Observium分支。[官网](https://github.com/librenms/librenms/)
 *   Monit：管理和监控Unix系统的小型开源工具。[官网](http://mmonit.com/monit/#home)
@@ -323,7 +323,7 @@ NOSQL数据库
 *   键值
     *   LevelDB：Google高性能键值数据库。[官网](https://code.google.com/p/leveldb/)
     *   Redis：支持网络，基于内存，键值，亦可持久化数据库。[官网](http://redis.io/)
-    *   [Riak](http://hao.jobbole.com/riak/)：另一个容错的键值NoSQL数据库。[官网](http://basho.com/riak/)
+    *   [Riak](http://hao.importnew.com/riak/)：另一个容错的键值NoSQL数据库。[官网](http://basho.com/riak/)
 
 NoSQL服务器比较: [http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 
