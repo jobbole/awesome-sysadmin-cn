@@ -577,6 +577,7 @@ Sysadmin相关书籍
 
 *   Ops School：全面的计划,将帮助你成为一名运维工程师。[官网](http://www.opsschool.org/)
 *   Digital Ocean Tutorials：一个非常庞大资源，获得基本的应用程序，工具,甚至是系统管理主题。[官网](https://www.digitalocean.com/community/tutorials)
+*   linuxjourney: 很简单的网站，里面有很多简答的主题（文件权限）和一些比较难的主题（子网划分）。适合初学者！[官网](https://linuxjourney.com/)
 
 <h3 id="weibo-weixin">微信公众号</h3>
 * Linux爱好者：专注分享 Linux/Unix 相关内容，包括：工具资源、使用技巧、课程、书籍等。
